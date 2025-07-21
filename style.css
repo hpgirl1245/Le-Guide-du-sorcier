@@ -1,0 +1,28 @@
+h1{
+	color:gold;
+	font-size:55px;
+	text-align:center;
+	font-family: "HarryP";
+} 
+p{
+    color:lavender;
+    font-style: italic;
+    font-family: ;
+}
+a{
+	font-size: 18px;
+}
+body {
+  background-image: url("https://i.pinimg.com/1200x/b9/cc/21/b9cc21f8262cd359b70db31a92e87df8.jpg");
+  background-size: cover;
+}
+h2{
+	color: white;
+
+ {
+ @font-face{
+    font-family: "HarryP";
+    src: url("../fonts/HARRYP_.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
